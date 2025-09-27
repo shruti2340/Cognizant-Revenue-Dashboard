@@ -29,9 +29,7 @@ It highlights how different **customer types (Gold, Premium, Standard, Basic)** 
 
 - **Other Visuals**  
   - Bar/Column Charts  
-  - Pie/Donut Charts  
-  - Tree Map (optional)  
-  - Slicers for interactive filtering  
+  - Pie/Donut Charts   
 
 ---
 
