@@ -1,3 +1,4 @@
+<img width="1308" height="746" alt="Screenshot 2025-09-28 131650" src="https://github.com/user-attachments/assets/996516d6-77db-4a2d-939f-1ff8a5b1ae47" />
 # Cognizant Revenue Dashboard
 
 This repository contains a Power BI project that analyzes **revenue trends and performance** using the **Cognizant Artificial Intelligence Kaggle dataset**.  
